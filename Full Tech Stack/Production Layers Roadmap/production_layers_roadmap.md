@@ -5,17 +5,6 @@
 
 ---
 
-## GitHub Wiki Style
-
-
-- [Layer 07 - CI/CD & Version Control](Layer-07---CI-CD-&-Version-Control)
-- [Layer 08 - Security](Layer-08---Security)
-- [Layer 09 - Rate Limiting](Layer-09---Rate-Limiting)
-- [Layer 10 - Caching & CDN](Layer-10---Caching-&-CDN)
-
-
----
-
 # Layer 01 - Frontend Foundations
 
 ## Purpose
