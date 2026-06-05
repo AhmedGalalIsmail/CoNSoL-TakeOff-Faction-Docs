@@ -1,5 +1,4 @@
 # Layer 01 - Frontend Foundations
-^lyr01
 
 ## Purpose
 
