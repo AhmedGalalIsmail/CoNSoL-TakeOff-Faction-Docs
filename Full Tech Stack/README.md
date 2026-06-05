@@ -36,6 +36,7 @@ The roadmap is organized into seventeen layers that collectively represent the m
 # Production Layers Roadmap
 
 ## Core Application
+
 - [Layer 01 - Frontend Foundations](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Layer-01---Frontend-Foundations)	
 - [Layer 01 - Frontend Foundations](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-01---Frontend-Foundations)
 - [Layer 02 - APIs & Backend Logic](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Production%20Layers%20Roadmap-Git-version.md#layer-02---apis--backend-logic)
