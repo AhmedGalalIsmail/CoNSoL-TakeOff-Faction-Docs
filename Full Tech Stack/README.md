@@ -37,65 +37,44 @@ The roadmap is organized into seventeen layers that collectively represent the m
 
 ## Core Application
 
-- [Layer 01 - Frontend Foundations](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Layer%2001%20-%20Frontend%20Foundations.md)
-- [Layer 02 - APIs & Backend Logic](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Layer%2002%20-%20APIs%20&%20Backend%20Logic.md#layer-02---apis--backend-logic)
-- [Layer 03 - Database Design & Data Architecture](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Production%20Layers%20Roadmap-Git-version.md#layer-03---database-design)(https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Layer%2003%20-%20Database%20Design.md#layer-03---database-design)
-- [Layer 04 - Authentication & Permissions](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/Production%20Layers%20Roadmap-Git-version.md#layer-04---authentication--permissions)
+- [Layer 01 - Frontend Foundations](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-01---frontend-foundations)
+- [Layer 02 - APIs & Backend Logic](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-02---apis--backend-logic)
+- [Layer 03 - Database Design & Data Architecture](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md##layer-03---database-design)
+- [Layer 04 - Authentication & Permissions](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-04---authentication--permissions)
     
 ## Delivery Platform
 	
-- [Layer 05 - Hosting & Deployment](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-05---Hosting-&-Deployment)
-- [Layer 06 - Cloud & Compute](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-06---Cloud-&-Compute)
-- [Layer 07 - CI/CD & Version Control](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-07---CI-CD-&-Version-Control)
+- [Layer 05 - Hosting & Deployment](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-05---Hosting-&-Deployment)
+- [Layer 06 - Cloud & Compute](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-06---Cloud-&-Compute)
+- [Layer 07 - CI/CD & Version Control](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-07---CI-CD-&-Version-Control)
     
 ## Protection
 	
-- [Layer 08 - Security](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-08---Security)
-- [Layer 09 - Rate Limiting](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-09---Rate-Limiting)
+- [Layer 08 - Security](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-08---Security)
+- [Layer 09 - Rate Limiting](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-09---Rate-Limiting)
     
 ## Performance
 	
-- [Layer 10 - Caching & CDN](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-10---Caching-&-CDN)
-- [Layer 11 - Scaling](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-11---Scaling)
+- [Layer 10 - Caching & CDN](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-10---Caching-&-CDN)
+- [Layer 11 - Scaling](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-11---Scaling)
     
 ## Operations
 	
-- [Layer 12 - Logging & Monitoring](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-12---Logging-&-Monitoring)
+- [Layer 12 - Logging & Monitoring](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-12---Logging-&-Monitoring)
     
 ## Reliability
 	
-- [Layer 13 - Availability & Recovery](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-13---Availability-&-Recovery)
+- [Layer 13 - Availability & Recovery](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-13---Availability-&-Recovery)
     
 ## Engineering Excellence
 	
-- [Layer 14 - Testing & Quality Assurance](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-14---Testing-&-Quality-Assurance)
-- [Layer 15 - Architecture & Design](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-15---Architecture-&-Design)
-- [Layer 16 - Documentation](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-16---Documentation)
-- [Layer 17 - Analytics & Telemetry](https://chatgpt.com/c/Production-Layers-Roadmap/Layer-17---Analytics-&-Telemetry)
-    
+- [Layer 14 - Testing & Quality Assurance](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-14---Testing-&-Quality-Assurance)
+- [Layer 15 - Architecture & Design](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-15---Architecture-&-Design)
+- [Layer 16 - Documentation](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-16---Documentation)
+- [Layer 17 - Analytics & Telemetry](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-17---Analytics-&-Telemetry)
+
 
 ---
-
-# Recommended Reading Order
-	
-1. Frontend Foundations
-2. APIs & Backend Logic
-3. Database Design & Data Architecture
-4. Authentication & Permissions
-5. Hosting & Deployment
-6. Cloud & Compute
-7. CI/CD & Version Control
-8. Security
-9. Rate Limiting
-10. Caching & CDN
-11. Scaling
-12. Logging & Monitoring
-13. Availability & Recovery
-14. Testing & Quality Assurance
-15. Architecture & Design
-16. Documentation
-17. Analytics & Telemetry
-	
 
 ```txt
 Full Tech Stack/
