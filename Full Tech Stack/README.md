@@ -45,7 +45,7 @@ The roadmap is organized into seventeen layers that collectively represent the m
 ## Delivery Platform
 	
 - [Layer 05 - Hosting & Deployment](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-05---hosting--deployment)
-- [Layer 06 - Cloud & Compute](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-06---Cloud-&-Compute)
+- [Layer 06 - Cloud & Compute](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-06---cloud--compute)
 - [Layer 07 - CI/CD & Version Control](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#Layer-07---CI-CD-&-Version-Control)
     
 ## Protection
