@@ -1,5 +1,4 @@
 # Layer 02 - APIs & Backend Logic
-^lyr02
 
 ## Purpose
 
