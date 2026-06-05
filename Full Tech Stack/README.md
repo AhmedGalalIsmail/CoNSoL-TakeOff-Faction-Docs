@@ -39,7 +39,7 @@ The roadmap is organized into seventeen layers that collectively represent the m
 
 - [Layer 01 - Frontend Foundations](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-01---frontend-foundations)
 - [Layer 02 - APIs & Backend Logic](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-02---apis--backend-logic)
-- [Layer 03 - Database Design & Data Architecture](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md##layer-03---database-design)
+- [Layer 03 - Database Design & Data Architecture](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-03---database-design)
 - [Layer 04 - Authentication & Permissions](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#layer-04---authentication--permissions)
     
 ## Delivery Platform
