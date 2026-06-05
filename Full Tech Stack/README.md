@@ -76,7 +76,6 @@ The roadmap is organized into seventeen layers that collectively represent the m
 ## Others
 
 - [Production Checklist](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#final-production-checklist)
-
 - [Production Readiness Gate](https://github.com/AhmedGalalIsmail/CoNSoL-TakeOff-Faction-Docs/blob/main/Full%20Tech%20Stack/Production%20Layers%20Roadmap/production_layers_roadmap.md#production-readiness-gate)
 ---
 
